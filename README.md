@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 <span style="color: #ff00ff;">About Me:</span><br><br>
 <div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBvdG5veHdpZHh3ZW5tMGRuazJ3OXN2eDNrZWlwMWEzcWZkOHFlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ijG4OMNUjbMQCgdZtF/giphy.gif"  />
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBvdG5veHdpZHh3ZW5tMGRuazJ3OXN2eDNrZWlwMWEzcWZkOHFlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ijG4OMNUjbMQCgdZtF/giphy.gif"  />
 </div>
 
 ###
