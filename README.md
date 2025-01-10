@@ -1,5 +1,4 @@
 # 💫 About Me:
-<div class="tenor-gif-embed" data-postid="9930967073899973151" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/re-zero-echidna-gif-9930967073899973151">Re Zero Echidna GIF</a>from <a href="https://tenor.com/search/re+zero-gifs">Re Zero GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 💫 <span style="color: #ff00ff;">About Me:</span><br><br>
 
 👨‍💻 I’m currently working on:<br>
