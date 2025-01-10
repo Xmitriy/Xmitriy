@@ -42,26 +42,14 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; margin-top: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/JavaScript-logo.svg/1024px-JavaScript-logo.svg.png" alt="JavaScript">
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logo_Java.svg/1024px-Logo_Java.svg.png" alt="Java">
-    <p>Java</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/C%2B%2B_Logo.svg/800px-C%2B%2B_Logo.svg.png" alt="C++">
-    <p>C++</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Python-logo.svg/500px-Python-logo.svg.png" alt="Python">
-    <p>Python</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="Rust">
-    <p>Rust</p>
-  </div>
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
