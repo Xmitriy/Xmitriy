@@ -32,14 +32,15 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV5eXBwaXQ3cWFqZDJ1c2Uwc2pkcmlqNGJ0bHl3Y2V6amI1Nm14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif" />
+  <div align="left">
+    <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV5eXBwaXQ3cWFqZDJ1c2Uwc2pkcmlqNGJ0bHl3Y2V6amI1Nm14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif" />
+  </div>
   <span style="font-size: 30px;">+</span>
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UyNjNkdG5hczJyaDI1cnZxbHFicG1sam8yOG9wZ3JsYmw2dDgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jleNxE9BsJVO8/giphy.gif"/>
+  <div align="right">
+    <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF6ZGUyOWJwbmhtenZpd2E4NHVxd2I1ZXZjY2Y0MzRrNW92Zmp1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KTh4qAoggsGMJBsoBM/giphy.gif" />
+  </div>
 </div>
-
-
 
 
 
