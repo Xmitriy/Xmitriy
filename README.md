@@ -46,11 +46,13 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="display: inline-block; text-align: left;">
+  <div align="left">
     <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZpMGo2c2dsOWVtamFudHdhOGtsYXo2cTdybmVmem4yMzFlOTNzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/reoUTXFBTZUek/giphy.gif" />
   </div>
   <span style="font-size: 30px;">+</span>
+  <div align="right">
     <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UyNjNkdG5hczJyaDI1cnZxbHFicG1sam8yOG9wZ3JsYmw2dDgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jleNxE9BsJVO8/giphy.gif" />
+  </div>
 </div>
 
 
