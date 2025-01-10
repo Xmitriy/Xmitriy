@@ -33,9 +33,10 @@
 </picture>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV5eXBwaXQ3cWFqZDJ1c2Uwc2pkcmlqNGJ0bHl3Y2V6amI1Nm14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif" />
   <span style="font-size: 30px;">+</span>
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF6ZGUyOWJwbmhtenZpd2E4NHVxd2I1ZXZjY2Y0MzRrNW92Zmp1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KTh4qAoggsGMJBsoBM/giphy.gif" />
 </div>
+
 
