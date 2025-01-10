@@ -1,10 +1,5 @@
 # 💫 About Me:
 💫 <span style="color: #ff00ff;">About Me:</span><br><br>
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBvdG5veHdpZHh3ZW5tMGRuazJ3OXN2eDNrZWlwMWEzcWZkOHFlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ijG4OMNUjbMQCgdZtF/giphy.gif"  />
-</div>
-
-###
 👨‍💻 I’m currently working on:<br>
 - <span style="color: #00bfff;">Developing a Tetris bot and CS2 scripts.</span><br>
 - <span style="color: #ff6347;">Creating exciting projects that blend my passion for coding, game development, and design.</span><br>
