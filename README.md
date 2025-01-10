@@ -1,6 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br><br>👨‍💻 I’m currently working on:<br>- Developing a Tetris bot and CS2 scripts.<br>- Creating exciting projects that blend my passion for coding, game development, and design.<br>- Building solutions that challenge me to push my limits and learn new technologies.<br><br>📚 I’m currently learning:<br>- C++, C#, Python, Rust, Java<br>- Database management<br>- The magic behind AI and how it can be applied to game development.<br><br>🌱 My goal:<br>- To create games and applications that not only entertain but also inspire others to learn and innovate.<br><br>🎉 Fun fact:<br>- I love coding and combining game development with graphic design to create unique projects that provide an amazing user experience!<br>- I’m always looking for ways to make coding more fun and engaging through gamification.<br>- When I’m not coding, you’ll find me diving into game mechanics or experimenting with futuristic designs.<br>
 
+<iframe src="https://giphy.com/embed/oUiNHDuAilCZreysVH" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/crunchyroll-anime-emilia-rezero-oUiNHDuAilCZreysVH">via GIPHY</a></p>
 
 ## Things I use on a daily basis
 
