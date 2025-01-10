@@ -32,8 +32,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+
+
+<br clear="both">
+
 <div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBvdG5veHdpZHh3ZW5tMGRuazJ3OXN2eDNrZWlwMWEzcWZkOHFlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ijG4OMNUjbMQCgdZtF/giphy.gif"  />
+  <img height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF1eHk5OGs1aDN2aGgyZmh2a2lxYTEzanZ3YTUxcG5vaXV1eTU1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif"  />
 </div>
 
 ###
