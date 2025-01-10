@@ -1,6 +1,4 @@
 # 💫 About Me:
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=310255861844362313" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
-
 💫 <span style="color: #ff00ff;">About Me:</span><br><br>
 
 👨‍💻 I’m currently working on:<br>
