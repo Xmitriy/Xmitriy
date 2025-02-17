@@ -1,24 +1,3 @@
-Here's the translation of your "About Me" section into French:
-
----
-
-#  À propos de moi:
-💫 <span style="color: #ff00ff;">À propos de moi :</span><br><br>
-  Je travaille actuellement sur :<br>
-- <span style="color: #00bfff;">Le développement d'un bot Tetris et des scripts pour CS2.</span><br>
-- <span style="color: #ff6347;">La création de projets passionnants qui allient ma passion pour la programmation, le développement de jeux et le design.</span><br>
-- <span style="color: #32cd32;">La création de solutions qui me poussent à dépasser mes limites et à apprendre de nouvelles technologies.</span><br><br>
-
-📚 J’apprends actuellement :<br>
-- <span style="color: #dda0dd;">C++, C#, Python, Rust, Java</span><br>
-- <span style="color: #ff69b4;">La gestion de bases de données</span><br>
-- <span style="color: #ff8c00;">La magie de l’IA et comment elle peut être appliquée au développement de jeux.</span><br><br>
-
-🌱 Mon objectif :<br>
-- <span style="color: #1e90ff;">Créer des jeux et des applications qui non seulement divertissent, mais aussi inspirent les autres à apprendre et à innover.</span><br><br>
-
-
----
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Aphrodite)
