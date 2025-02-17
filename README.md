@@ -1,9 +1,3 @@
-## 💖 Sponsorship Goal
-🎯 Target: **$1000**  
-💰 Current: **$469**  
-
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20Me-%F0%9F%92%96-purple?style=for-the-badge&logo=github)](https://github.com/sponsors/your-github-username)
-
 # 💫 About Me:
 💫 <span style="color: #ff00ff;">About Me:</span><br><br>
 👨‍💻 I’m currently working on:<br>
