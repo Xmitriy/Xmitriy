@@ -1,22 +1,24 @@
-# 💫 About Me:
-💫 <span style="color: #ff00ff;">About Me:</span><br><br>
-👨‍💻 I’m currently working on:<br>
-- <span style="color: #00bfff;">Developing a Tetris bot and CS2 scripts.</span><br>
-- <span style="color: #ff6347;">Creating exciting projects that blend my passion for coding, game development, and design.</span><br>
-- <span style="color: #32cd32;">Building solutions that challenge me to push my limits and learn new technologies.</span><br><br>
+Here's the translation of your "About Me" section into French:
 
-📚 I’m currently learning:<br>
+---
+
+#  À propos de moi:
+💫 <span style="color: #ff00ff;">À propos de moi :</span><br><br>
+  Je travaille actuellement sur :<br>
+- <span style="color: #00bfff;">Le développement d'un bot Tetris et des scripts pour CS2.</span><br>
+- <span style="color: #ff6347;">La création de projets passionnants qui allient ma passion pour la programmation, le développement de jeux et le design.</span><br>
+- <span style="color: #32cd32;">La création de solutions qui me poussent à dépasser mes limites et à apprendre de nouvelles technologies.</span><br><br>
+
+📚 J’apprends actuellement :<br>
 - <span style="color: #dda0dd;">C++, C#, Python, Rust, Java</span><br>
-- <span style="color: #ff69b4;">Database management</span><br>
-- <span style="color: #ff8c00;">The magic behind AI and how it can be applied to game development.</span><br><br>
+- <span style="color: #ff69b4;">La gestion de bases de données</span><br>
+- <span style="color: #ff8c00;">La magie de l’IA et comment elle peut être appliquée au développement de jeux.</span><br><br>
 
-🌱 My goal:<br>
-- <span style="color: #1e90ff;">To create games and applications that not only entertain but also inspire others to learn and innovate.</span><br><br>
+🌱 Mon objectif :<br>
+- <span style="color: #1e90ff;">Créer des jeux et des applications qui non seulement divertissent, mais aussi inspirent les autres à apprendre et à innover.</span><br><br>
 
-🎉 Fun fact:<br>
-- <span style="color: #ff4500;">I love coding and combining game development with graphic design to create unique projects that provide an amazing user experience!</span><br>
-- <span style="color: #9932cc;">I’m always looking for ways to make coding more fun and engaging through gamification.</span><br>
-- <span style="color: #00fa9a;">When I’m not coding, you’ll find me diving into game mechanics or experimenting with futuristic designs.</span><br>
+
+---
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Aphrodite)
